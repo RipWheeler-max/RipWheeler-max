@@ -58,15 +58,6 @@
 - 自动化工作流：连接本地工具、内容生产、知识管理和发布流程
 - 交互式学习：用游戏化、可视化方式降低复杂知识的学习门槛
 
-## GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RipWheeler-max&show_icons=true&hide_border=true&locale=cn&rank_icon=github" alt="Rogue 的 GitHub 数据" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RipWheeler-max&layout=compact&hide_border=true&locale=cn" alt="Rogue 常用语言" />
-
-</div>
-
 ## 联系我
 
 如果你也在关注 **AI 编程、前端开发、独立产品或自动化工作流**，欢迎在 [X / Twitter](https://x.com/rogue30481577) 找我交流。
