@@ -6,6 +6,8 @@
 
 把想法做成真正能运行、能使用、能持续迭代的产品。
 
+**快速迭代，持续进步，深度思考。**
+
 [![GitHub followers](https://img.shields.io/github/followers/RipWheeler-max?style=flat-square&logo=github&label=Followers)](https://github.com/RipWheeler-max?tab=followers)
 [![X / Twitter](https://img.shields.io/badge/X-rogue30481577-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rogue30481577)
 
@@ -13,10 +15,10 @@
 
 ## 关于我
 
-我是 99 年的程序员，有 3 年前端开发经验，现在主要探索 **Vibe Coding、AI 辅助开发和个人产品实践**。
+我是 90 后程序员，现在主要探索 **Vibe Coding、AI 辅助开发和个人产品实践**。
 
 - 💻 熟悉 Web 项目从页面实现、工程化开发到部署交付的完整流程
-- 🤖 把 AI 接入需求拆解、方案设计、编码、调试、测试和发布，而不只是生成几段代码
+- 🤖 把 AI 接入需求拆解、方案设计、编码、调试、测试和发布
 - 🧩 喜欢把复杂问题拆成清晰的小步骤，快速做出可验证的 Demo，再持续打磨
 - 🎬 正在实践 AI 视频生产、内容创作和个人知识管理等自动化工作流
 - ✍️ 在 [X / Twitter](https://x.com/rogue30481577) 记录 AI 编程、独立开发和产品实践
@@ -61,9 +63,3 @@
 ## 联系我
 
 如果你也在关注 **AI 编程、前端开发、独立产品或自动化工作流**，欢迎在 [X / Twitter](https://x.com/rogue30481577) 找我交流。
-
-<div align="center">
-
-<sub>持续构建，持续分享。Build in public.</sub>
-
-</div>
